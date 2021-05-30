@@ -1,4 +1,5 @@
 # WNBA
 All things WNBA, trying to grow the game 
 
-![All the zones on the court](WNBA.PNG)
+![All the zones on the court](newplot (6).png)
+
